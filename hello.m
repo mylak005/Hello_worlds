@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 
 int main(int argc, const char * argv[]) {
-    @mylak {
+    @author {
         NSLog(@"Hello, World!");
     }
     return 0;
