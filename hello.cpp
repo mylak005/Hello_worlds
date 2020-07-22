@@ -1,4 +1,4 @@
-#include <iostream.h>
+#include <iostream>
 
 int main(void) {
   printf("Hello World");
